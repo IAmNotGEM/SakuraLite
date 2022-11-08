@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "sakuralite:bamboo"
+    }
+  },
+  "result": {
+    "item": "sakuralite:bamboo_block"
+  }
+}

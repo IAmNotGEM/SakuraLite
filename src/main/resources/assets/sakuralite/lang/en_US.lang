@@ -1,0 +1,16 @@
+itemGroup.sakuralite_tabs=Sakura Lite
+
+tile.sakuralite.bamboo.name=Bamboo
+tile.sakuralite.bamboo_shoot.name=Bamboo Shoot
+tile.sakuralite.bamboo_block.name=Bamboo Block
+
+tile.sakuralite.bamboo_charcoal_block.name=Bamboo Charcoal Block
+
+tile.sakuralite.sakuraleaves.name=Sakura Leaves
+tile.sakuralite.sakura_sapling.name=Sakura Sapling
+tile.sakuralite.sakura_log.name=Sakura Log
+tile.sakuralite.plank_sakura.name=Sakura Plank
+tile.sakuralite.slab_plank_sakura.name=Sakura Plank Slab
+tile.sakuralite.stairs_plank_sakura.name=Sakura Plank Stairs
+
+item.sakuralite.bamboo_charcoal.name=Bamboo Charcoal

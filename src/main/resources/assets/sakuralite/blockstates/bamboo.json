@@ -1,0 +1,31 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "sakuralite:blocks/bamboo"
+    }
+  },
+  "variants": {
+    "age=0": {
+      "model": "sakuralite:bamboo_grow"
+    },
+    "age=1": {
+      "model": "sakuralite:bamboo_grow"
+    },
+    "age=2": {
+      "model": "sakuralite:bamboo_grow"
+    },
+    "age=3": {
+      "model": "sakuralite:bamboo_grow"
+    },
+    "age=4": {
+      "model": "sakuralite:bamboo_grow"
+    },
+    "age=5": {
+      "model": "sakuralite:bamboo_grow"
+    },
+    "inventory": {
+      "model": "sakuralite:bamboo"
+    }
+  }
+}

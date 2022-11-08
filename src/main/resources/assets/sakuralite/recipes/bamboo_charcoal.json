@@ -1,0 +1,14 @@
+{
+  "result": {
+    "item": "sakuralite:materials",
+    "data":0,
+    "count": 4
+  },
+
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+          "item":"sakuralite:bamboo_charcoal_block"
+    }
+  ]
+}

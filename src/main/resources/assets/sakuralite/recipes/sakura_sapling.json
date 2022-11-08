@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "sakuralite:sakura_sapling"
+  },
+  "ingredients": [
+    {
+        "type" : "forge:ore_dict",
+        "ore" : "treeSapling"
+    },    {
+        "type" : "forge:ore_dict",
+        "ore" : "dyePink"
+    }
+  ],
+ "type" :  "forge:ore_shapeless"
+}

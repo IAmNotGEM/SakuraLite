@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sakuralite:plank_sakura"
+    }
+  },
+  "result": {
+    "item": "sakuralite:stairs_plank_sakura",
+    "count": 4
+  }
+}
